@@ -1,0 +1,4 @@
+﻿  day03_07.c
+D:\Desktop\研究生\C-CODE\day03\day03\day03_07.c(16,14): warning C4013: “strcspn”未定义；假设外部返回 int
+D:\Desktop\研究生\C-CODE\day03\day03\day03_07.c(29,28): warning C4013: “strlen”未定义；假设外部返回 int
+  day03.vcxproj -> D:\Desktop\研究生\C-CODE\day03\x64\Debug\day03.exe

@@ -1,0 +1,4 @@
+﻿  07.c
+D:\code\2025\C_coding_practice\day02\day02\07.c(18,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\2025\C_coding_practice\day02\day02\07.c(21,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  day02.vcxproj -> D:\code\2025\C_coding_practice\day02\Debug\day02.exe
