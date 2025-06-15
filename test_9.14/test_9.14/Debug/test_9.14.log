@@ -1,3 +1,0 @@
-﻿  mian.c
-D:\VS Program\2024\C课程\初识\test_9.14\test_9.14\mian.c(20,1): warning C4305: “初始化”: 从“double”到“float”截断
-  test_9.14.vcxproj -> D:\VS Program\2024\C课程\初识\test_9.14\Debug\test_9.14.exe

@@ -1,6 +1,0 @@
-﻿  day02_09.c
-D:\CODE\2025\STD_C\C-CODE\day02\day02\day02_09.c(11,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\CODE\2025\STD_C\C-CODE\day02\day02\day02_09.c(15,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  day02_14.c
-  正在生成代码...
-  day02.vcxproj -> D:\CODE\2025\STD_C\C-CODE\day02\x64\Debug\day02.exe
